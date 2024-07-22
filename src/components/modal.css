@@ -1,0 +1,42 @@
+
+
+.modalwindow {
+    padding: 50px;
+}
+
+button {
+    background-color: #588f7b; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.menu ul {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    line-height: 18px;
+    list-style: none;
+
+}
+
+.menu li {
+    margin-right: 100px;
+    margin-top: 90px;
+    font-size: 20px;
+}
+
+
+.imguser {
+    margin-top: -50px;
+}
+
+.btnw {
+    margin-top: 50px;
+}
