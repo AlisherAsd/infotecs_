@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/infotecs_/static/css/main.5671a022.css",
+    "main.js": "/infotecs_/static/js/main.5df99404.js",
+    "index.html": "/infotecs_/index.html",
+    "main.5671a022.css.map": "/infotecs_/static/css/main.5671a022.css.map",
+    "main.5df99404.js.map": "/infotecs_/static/js/main.5df99404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5671a022.css",
+    "static/js/main.5df99404.js"
+  ]
+}
