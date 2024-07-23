@@ -24,24 +24,24 @@ function ModalWindow({user}) {
             <div className='menu'>
             
                 <ul>
-                    <li><h3>{user.id}</h3></li>
+                    <li><h3>ID: {user.id}</h3></li>
                     <li><img className='imguser' src={user.image} /></li>
-                    <li><h3>{user.firstName}</h3></li>
-                    <li><h3>{user.lastName}</h3></li>
-                    <li><h3>{user.maidenName}</h3></li>
+                    <li><h3>FirstName: {user.firstName}</h3></li>
+                    <li><h3>LastName: {user.lastName}</h3></li>
+                    <li><h3>MaidenName: {user.maidenName}</h3></li>
                 </ul>
                     
                 <ul>
-                    <li><h3>{user.email}</h3></li>
-                    <li><h3>{user.phone}</h3></li>
-                    <li><h3>{user.username}</h3></li>
-                    <li><h3>{user.password}</h3></li>
+                    <li><h3>email: {user.email}</h3></li>
+                    <li><h3>phone: {user.phone}</h3></li>
+                    <li><h3>username: {user.username}</h3></li>
+                    <li><h3>password: {user.password}</h3></li>
                 </ul>
  
                 <ul>
-                    <li><h3>{user.age}</h3></li>
-                    <li><h3>{user.gender}</h3></li>
-                    <li><h3>{user.birthDate}</h3></li>
+                    <li><h3>age: {user.age}</h3></li>
+                    <li><h3>gender: {user.gender}</h3></li>
+                    <li><h3>birthdate: {user.birthDate}</h3></li>
                 </ul>
                     
                 <div className='btnw'>
